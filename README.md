@@ -108,7 +108,7 @@
 
 <br />
 
-<h2 align="left">Popular repositories:</h2>
+<h2 align="left">Some Interesting Repositories:</h2>
 <ul align='center'>
   <img src='https://github-readme-stats.vercel.app/api/pin/?username=humtej1204&repo=reactjs_proyects&theme=github_dark'>
   <img src='https://github-readme-stats.vercel.app/api/pin/?username=humtej1204&repo=holbertonschool-higher_level_programming&theme=github_dark'>
