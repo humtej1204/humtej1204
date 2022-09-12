@@ -4,8 +4,8 @@
 
 <h2>Stats:</h2>
 <ul align='center'>
-  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=humtej1204&layout=compact&theme=github_dark&langs_count=15' height='225px'>
-  <img src='https://github-readme-stats.vercel.app/api?username=humtej1204&show_icons=true&theme=github_dark' height='225px'>
+  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=humtej1204&layout=compact&theme=github_dark&langs_count=15'>
+  <img src='https://github-readme-stats.vercel.app/api?username=humtej1204&show_icons=true&theme=github_dark'>
 </ul>
 
 <h2>About me:</h2>
