@@ -18,13 +18,13 @@
 
 - 🤝 I’m looking for help with **anyone who wants to learn the basics of Programmation**
 
-- 📝 I regularly write articles on [https://medium.com/@humtej1204](https://medium.com/@humtej1204)
+- 📝 I regularly write articles on [medium.com/@humtej1204](https://medium.com/@humtej1204)
 
 - 💬 Ask me about **Python, JavaScript, HTML, CSS, C**
 
 - 📫 How to reach me **humtej1204@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1PsMd6VEOQ_Ul3EK_9tsDz2zBIhqzmFv-/view?usp=sharing](https://drive.google.com/file/d/1PsMd6VEOQ_Ul3EK_9tsDz2zBIhqzmFv-/view?usp=sharing)
+- 📄 Know about my experiences [Click here to redirect to the File](https://drive.google.com/file/d/1PsMd6VEOQ_Ul3EK_9tsDz2zBIhqzmFv-/view?usp=sharing)
 
 - ⚡ Fun fact **when my code doesn't compile I use Stack Overflow with the ancient technique of "Ctrl + C" "Ctrl + V"**
 
@@ -110,15 +110,12 @@
 
 <h2 align="left">Some Interesting Repositories:</h2>
 <ul align='center'>
-  [![reactjs_proyects](https://github-readme-stats.vercel.app/api/pin/?username=humtej1204&repo=reactjs_proyects&theme=github_dark)][https://github.com/humtej1204/reactjs_proyects]
-  [![NodeJS_Practice](https://github-readme-stats.vercel.app/api/pin/?username=humtej1204&repo=NodeJS_Practice&theme=github_dark)][https://github.com/humtej1204/NodeJS_Practice]
-  [![Java-Practice](https://github-readme-stats.vercel.app/api/pin/?username=humtej1204&repo=Java-Practice&theme=github_dark)][https://github.com/humtej1204/Java-Practice]
-  [![holbertonschool-higher_level_programming](https://github-readme-stats.vercel.app/api/pin/?username=humtej1204&repo=holbertonschool-higher_level_programming&theme=github_dark)][https://github.com/humtej1204/holbertonschool-higher_level_programming]
-  [![holberton-system_engineering-devops](https://github-readme-stats.vercel.app/api/pin/?username=humtej1204&repo=holberton-system_engineering-devops&theme=github_dark)][https://github.com/humtej1204/holberton-system_engineering-devops]
-  [![holbertonschool-low_level_programming](https://github-readme-stats.vercel.app/api/pin/?username=humtej1204&repo=holbertonschool-low_level_programming&theme=github_dark)][https://github.com/humtej1204/holbertonschool-low_level_programming]
-  [![Fix_My_Code_Challenge](https://github-readme-stats.vercel.app/api/pin/?username=humtej1204&repo=Fix_My_Code_Challenge&theme=github_dark)][https://github.com/humtej1204/Fix_My_Code_Challenge]
-  [![binary_trees](https://github-readme-stats.vercel.app/api/pin/?username=humtej1204&repo=binary_trees&theme=github_dark)][https://github.com/humtej1204/binary_trees]
-  [![sorting_algorithms](https://github-readme-stats.vercel.app/api/pin/?username=humtej1204&repo=sorting_algorithms&theme=github_dark)][https://github.com/humtej1204/sorting_algorithms]
-  [![holbertonschool-math](https://github-readme-stats.vercel.app/api/pin/?username=humtej1204&repo=holbertonschool-math&theme=github_dark)][https://github.com/humtej1204/holbertonschool-math]
+  
+  |  |  |  |
+  | :---: | :---: | :---: |
+  | [![NodeJS_Practice](https://github-readme-stats.vercel.app/api/pin/?username=humtej1204&repo=NodeJS_Practice&theme=github_dark)](https://github.com/humtej1204/NodeJS_Practice) | [![Java-Practice](https://github-readme-stats.vercel.app/api/pin/?username=humtej1204&repo=Java-Practice&theme=github_dark)](https://github.com/humtej1204/Java-Practice) | [![holbertonschool-higher_level_programming](https://github-readme-stats.vercel.app/api/pin/?username=humtej1204&repo=holbertonschool-higher_level_programming&theme=github_dark)](https://github.com/humtej1204/holbertonschool-higher_level_programming) |
+  | [![holberton-system_engineering-devops](https://github-readme-stats.vercel.app/api/pin/?username=humtej1204&repo=holberton-system_engineering-devops&theme=github_dark)](https://github.com/humtej1204/holberton-system_engineering-devops) | [![holbertonschool-low_level_programming](https://github-readme-stats.vercel.app/api/pin/?username=humtej1204&repo=holbertonschool-low_level_programming&theme=github_dark)](https://github.com/humtej1204/holbertonschool-low_level_programming) | [![Fix_My_Code_Challenge](https://github-readme-stats.vercel.app/api/pin/?username=humtej1204&repo=Fix_My_Code_Challenge&theme=github_dark)](https://github.com/humtej1204/Fix_My_Code_Challenge) |
+  | [![binary_trees](https://github-readme-stats.vercel.app/api/pin/?username=humtej1204&repo=binary_trees&theme=github_dark)](https://github.com/humtej1204/binary_trees) | [![sorting_algorithms](https://github-readme-stats.vercel.app/api/pin/?username=humtej1204&repo=sorting_algorithms&theme=github_dark)](https://github.com/humtej1204/sorting_algorithms) | [![holbertonschool-math](https://github-readme-stats.vercel.app/api/pin/?username=humtej1204&repo=holbertonschool-math&theme=github_dark)](https://github.com/humtej1204/holbertonschool-math) |
+  |  |  |  |
   
 </ul>
